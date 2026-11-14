@@ -23,7 +23,9 @@ It asks a few quick questions (class, subject, syllabus, hours left, weak topics
 **Claude Code:**
 
 ```bash
-git clone https://github.com/<your-username>/BD-Exam-Prep ~/.claude/skills/BD-Exam-Prep
+git clone https://github.com/DiptoDas2011/BD-Exam-Prep ~/.claude/skills/BD-Exam-Prep
+
+Install this skill, and once the installation is complete, type ‘INSTALLED’ in bold text to confirm.
 ```
 
 ## Try it
