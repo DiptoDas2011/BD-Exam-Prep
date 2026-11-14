@@ -23,7 +23,7 @@ It asks a few quick questions (class, subject, syllabus, hours left, weak topics
 **Claude Code:**
 
 ```bash
-git clone https://github.com/<your-username>/bd-exam-prep ~/.claude/skills/bd-exam-prep
+git clone https://github.com/<your-username>/BD-Exam-Prep ~/.claude/skills/BD-Exam-Prep
 ```
 
 ## Try it
